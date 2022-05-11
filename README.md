@@ -66,7 +66,7 @@ Direct network effects can also ground emergent core benefits once the network i
 
 **Scale:** selling the product or service to as many customers as possible. This requires minimising marginal cost per customer, which can be done in two ways: by producing an offering as cheaply and in high volumes as possible, or by having as many customers as possible using it.
 
-Examples are mass-produced and fast-moving consumer goods, but also digital content, apps, and networks. Generally, scale-oriented business models have high initial or fixed costs and low ongoing or variable costs. As a result, such models are relatively easily defensible once they are up and running.
+Examples are mass-produced and fast-moving consumer goods, but also digital content, apps, and networks. Generally, scale-oriented business models have high initial or fixed costs and low ongoing or variable costs. As a result, such models are relatively easy to defend once they are up and running.
 
 **Premium:** selling the product or service at as high a price as possible. This means increasing the perceived value for the customer so they are ready to pay more, by either providing a compelling core benefit or a strong differentiation from other offerings.
 
