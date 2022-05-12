@@ -2,7 +2,7 @@
 
 > The Value Cube is a visual and conceptual framework that helps ideate, analyse, and evaluate new and existing business models. It shows how complex business models are built from simple interacting components, and how to leverage them for successful strategies.
 
-![The Value Cube](https://github.com/Value-Cube/docs/raw/main/illustrations/Full%20Cube.png)
+![The Value Cube](https://github.com/Value-Cube/docs/raw/main/illustrations/2D/Full%20Cube.png)
 
 For every business, there are three ways to make more money: **gain more customers**, **conclude more transactions per customer**, and **generate more revenue per transaction**.
 
